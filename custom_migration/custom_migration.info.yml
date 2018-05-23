@@ -1,0 +1,6 @@
+name: Custom migration module.
+type: module
+description: 'Allows to migrate custom migrations'
+package: Custom
+version: VERSION
+core: 8.x
