@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\custom_migrate\Plugin\migrate\source;
+namespace Drupal\custom_migration\Plugin\migrate\source;
 
 use Drupal\migrate\Plugin\migrate\source\SqlBase;
 

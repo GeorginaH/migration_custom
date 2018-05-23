@@ -6,7 +6,7 @@
  * Time: 01:10 PM
  */
 
-namespace Drupal\custom_migrate\Plugin\migrate\process;
+namespace Drupal\custom_migration\Plugin\migrate\process;
 
 use Drupal\Component\Datetime\DateTimePlus;
 use Drupal\migrate\MigrateException;
